@@ -1,5 +1,9 @@
 hiii
 hii nikhitha
 nikky
+<<<<<<< HEAD
 nik1
 nik2
+=======
+nikkkk
+>>>>>>> origin/main
