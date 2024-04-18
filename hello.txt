@@ -1,3 +1,7 @@
 hello
+<<<<<<< HEAD
 
 hiii
+=======
+ok tq
+>>>>>>> origin/main
