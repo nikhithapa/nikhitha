@@ -1,8 +1,10 @@
 hiiiii
 hello
-<<<<<<< HEAD
 how are you 
-=======
 okok
+<<<<<<< HEAD
 >>>>>>> origin/main
 hi nikkkyyy
+=======
+moschip
+>>>>>>> origin/main
