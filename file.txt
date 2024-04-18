@@ -1,7 +1,5 @@
 hiiiii
 hello
-<<<<<<< HEAD
 how are you 
-=======
 okok
->>>>>>> origin/main
+moschip
