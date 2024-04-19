@@ -1,8 +1,1 @@
-hello
-hiii
-ok tq
-<<<<<<< HEAD
-okay
-=======
-its ok
->>>>>>> new
+hiiii
